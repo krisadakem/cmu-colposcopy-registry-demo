@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.bak
+*.db.bak
+colposcopy_backup_*.db
+test_*.pdf
+uploads/
+.streamlit/secrets.toml
+.env
+*_backup.py
+test_*.py
+pathology_pdf_export1.py
